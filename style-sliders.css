@@ -1,0 +1,25 @@
+.slide-1{ width: 100%; }
+.slide-2{ width: 200%; }
+.slide-3{ width: 300%; }
+.slide-4{ width: 400%; }
+.slide-5{ width: 500%; }
+.slide-6{ width: 600%; }
+.slide-7{ width: 700%; }
+.slide-8{ width: 800%; }
+.slide-9{ width: 900%; }
+.slide-10{ width: 1000%; }
+.slide-11{ width: 1100%; }
+.slide-12{ width: 1200%; }
+
+.slide-1 .content-wrapper{ width: 100%; }
+.slide-2 .content-wrapper{ width: 50%; }
+.slide-3 .content-wrapper{ width: 33.33%; }
+.slide-4 .content-wrapper{ width: 25%; }
+.slide-5 .content-wrapper{ width: 20%; }
+.slide-6 .content-wrapper{ width: 16.66%; }
+.slide-7 .content-wrapper{ width: 14.28%; }
+.slide-8 .content-wrapper{ width: 12.5%; }
+.slide-9 .content-wrapper{ width: 11.11%; }
+.slide-10 .content-wrapper{ width: 10%; }
+.slide-11 .content-wrapper{ width: 9.09%; }
+.slide-12 .content-wrapper{ width: 8.33%; }
