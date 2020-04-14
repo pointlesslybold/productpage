@@ -156,7 +156,6 @@ function changeSlide(variant){
 }
 
 function showSlide(el, number){
-    console.log(number);
     var pages = Array.from(el.querySelectorAll(".simple-page"));
     pages.forEach(function(page){
         page.className = "simple-page hidden";
